@@ -1,0 +1,530 @@
+{
+  "version": "2026.07.24",
+  "baseUrl": "https://github.com/CodeCrafterJerry/ccvm/raw/master/",
+  "deleteUnknown": false,
+  "files": [
+    {
+      "path": "!Red-Core-MC-1.8-1.12-0.7.1.jar",
+      "sha256": "9935912816062ca46a2ecd020d813ee2dde8e6b228daec068b465eb72ea51368",
+      "side": "双端"
+    },
+    {
+      "path": "!mixinbooter-11.5.jar",
+      "sha256": "6ecce260c89819b73b014efd766c391a0aeb694cb304fefb593fd997f98436a4",
+      "side": "双端"
+    },
+    {
+      "path": "+Fugue-0.23.7.jar",
+      "sha256": "358e565b9b655840b52a79b7808eecd9c9b611030783180d68fa5bff3b7cc615",
+      "side": "双端"
+    },
+    {
+      "path": "AE2WTLib-1.12.2-1.0.34.jar",
+      "sha256": "6d0ec545bf94e6142b4140f910aae4114b1f92298e820c12fa91af35a3c90d60",
+      "side": "双端"
+    },
+    {
+      "path": "AdvMachinesPatch-1.1.jar",
+      "sha256": "507be41488742cea528909dd0a81905472e6373ab5ad674c8c3c62fa1835f434",
+      "side": "双端"
+    },
+    {
+      "path": "Advanced Machines-61.0.1.jar",
+      "sha256": "6092ffec5a1eff36c0a03225a46d45eb74fd7986023789391626c60437e4d9c4",
+      "side": "双端"
+    },
+    {
+      "path": "AsmodeusCore-1.12.2-1.0.5.jar",
+      "sha256": "e499bfbd7669bdaf3ad7483293af0647f1b260265b1ae51468f780b3861441b8",
+      "side": "双端"
+    },
+    {
+      "path": "CreativeCore_v1.10.71_mc1.12.2.jar",
+      "sha256": "b0ef34ec816fa91451f8d4b62c016c159ab3559d6f75870790d1215943f009d5",
+      "side": "双端"
+    },
+    {
+      "path": "Forgelin-Continuous-2.4.0.0.jar",
+      "sha256": "33bf5face2d58612071cee549c9fcf4a373d4d8ba992fa51a4959da77a11f5d8",
+      "side": "双端"
+    },
+    {
+      "path": "Hwyla-1.8.26-B41_1.12.2.jar",
+      "sha256": "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124",
+      "side": "双端"
+    },
+    {
+      "path": "IC2-Patcher-2.0.13.jar",
+      "sha256": "d05851ed1d7d427dac7d293a2cdc78a4d1ec821264b28c50fb6da79601779657",
+      "side": "双端"
+    },
+    {
+      "path": "LibrarianLib-Continuous-1.12.2-4.22-2.0-3.jar",
+      "sha256": "27cef30297b6551f96b3ed41980582de3b5836f459915ae9f5e9c4d2cccf6d13",
+      "side": "双端"
+    },
+    {
+      "path": "NTMstructure 1.12.2 2.0.jar",
+      "sha256": "5f70294d52c26f3f437fa33cff021058185be9985598c7373b2c868316ba1d39",
+      "side": "双端"
+    },
+    {
+      "path": "OreLib-1.12.2-3.6.0.1.jar",
+      "sha256": "4483d8cc2b0334b82b7d0f5bb6354a2020a0e00ce63a48379e8ba5eb7d79eef9",
+      "side": "双端"
+    },
+    {
+      "path": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "sha256": "6ff7f96d076bfaad83fb6ba92ec457b8a76391439663b0cc32a9ec5398345280",
+      "side": "双端"
+    },
+    {
+      "path": "Scalar Legacy-1.0.1.jar",
+      "sha256": "350d1c378f3b0ac8e7b3df0432482bbb5341c79d07df843c747be1d5fdc23cfe",
+      "side": "双端"
+    },
+    {
+      "path": "YARCF-0.14(1.12.2).jar",
+      "sha256": "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2",
+      "side": "双端"
+    },
+    {
+      "path": "[AE2扩展] ExtendedAE-1.12-0.0.2.jar",
+      "sha256": "ca1a8379ec2d85bee861725099cd54bbbafb7bdb09bf03bbc1f4f1f69943a88a",
+      "side": "双端"
+    },
+    {
+      "path": "[JEI物品管理器] jei_1.12.2-4.16.5.1016.jar",
+      "sha256": "3e31e067502446328445a0d8078271cae39b7c822ecf02f617c0d6876eaec9e8",
+      "side": "双端"
+    },
+    {
+      "path": "[Xaero的世界地图] xaeroworldmap-forge-1.12.2-1.44.2.jar",
+      "sha256": "30e3d1a321dc5e4c523b2e314228126e87df8c461b5ca956a7a32ec067c25154",
+      "side": "双端"
+    },
+    {
+      "path": "[Xaero的小地图] xaerominimap-forge-1.12.2-26.4.2.jar",
+      "sha256": "618009ed65225188335633ae9b1d61afc0dbd6e73ab28d1b4b87549c56c5ff1a",
+      "side": "双端"
+    },
+    {
+      "path": "[传送石碑／指路石] Waystones_1.12.2-4.1.0.jar",
+      "sha256": "5e79f329154d9a6225130f2b29dbcb0f603e2e622637e39ca566f8179b02ca15",
+      "side": "双端"
+    },
+    {
+      "path": "[储物抽屉] StorageDrawers-1.12.2-5.5.3.jar",
+      "sha256": "26337559bad06539175f0a5fe886db816f0f6045d96be4737493a0e669117e2f",
+      "side": "双端"
+    },
+    {
+      "path": "[僵尸意识] zombieawareness-1.12.1-1.11.16.jar",
+      "sha256": "b3bf5e8d33bba7b691c8ebd15f134c36dde40809f89acac3d51bdd2a9da42f2b",
+      "side": "双端"
+    },
+    {
+      "path": "[僵尸玩家] zombie_players-1.12.1-1.2.7.jar",
+      "sha256": "7969daf51537df644a26b95032c04f28d60b5be01a9beb4373999e33749eef24",
+      "side": "双端"
+    },
+    {
+      "path": "[光影前向兼容] AdvancedShader-1.0.2-1.12.2.jar.disabled",
+      "sha256": "a8f9a86a9e9c87e6adb560d8e3d21eeaa1bb7da9fc6ecb891d094c298a6870ea",
+      "side": "双端"
+    },
+    {
+      "path": "[全键无冲] NonConflictKeys-Forge-1.12.2-1.0.0.jar",
+      "sha256": "fd79b59dc36583228ae9ba8d38f63e7712689932f31daefa46b27389e170bd31",
+      "side": "双端"
+    },
+    {
+      "path": "[冒险地牢] RoguelikeDungeons-1.12.2-1.8.0.jar",
+      "sha256": "0668c6dd53adfb837e2cb9e2650b9925fe250063f12bcd159d9f80093d4fef20",
+      "side": "双端"
+    },
+    {
+      "path": "[冰火传说] iceandfire-1.9.1-1.12.2.jar",
+      "sha256": "5f52931991f8f7d8dd7f52952dff0f93baea6dad9031f25ce8f864771b362257",
+      "side": "双端"
+    },
+    {
+      "path": "[动态环境／动态环绕] DynamicSurroundings-1.12.2-3.6.3.jar",
+      "sha256": "e5c9fbc101dae923a49800761c901831c1f085685c20a229d7dcf98f37d70b85",
+      "side": "双端"
+    },
+    {
+      "path": "[匠魂] TConstruct-1.12.2-2.13.0.183.jar",
+      "sha256": "707107f746ffc9d2bf35912953ae1ce780f7b7c4b7cf86b4821a1a151bcf9f6f",
+      "side": "双端"
+    },
+    {
+      "path": "[区块加载动画] ChunkAnimator-1.12.2-1.2.1.jar",
+      "sha256": "a41da9077db8709be752f02e429b5af572fb7662b5713fad4e672f0c29981855",
+      "side": "双端"
+    },
+    {
+      "path": "[反应堆材料] ReactorStuff-[1.12.2]-1.10.2.jar",
+      "sha256": "c894fba8cce232ba8e5a8b5d463b4ebf8f76115b43bdd7de6e7421dc2ff6c6ae",
+      "side": "双端"
+    },
+    {
+      "path": "[变色龙] Chameleon-1.12-4.1.3.jar",
+      "sha256": "238416f801acda67b90fba9e0e572dbd6e7631b7e64c3eb3d6226f45ae536c87",
+      "side": "双端"
+    },
+    {
+      "path": "[地幔] Mantle-1.12-1.3.3.55.jar",
+      "sha256": "0975ad3ef3b8b35fe43461feabe44d406b5521b0a2f3d1965c8d2f6a59ad2e65",
+      "side": "双端"
+    },
+    {
+      "path": "[增强装备] enhancedarmaments-1.3.21.jar",
+      "sha256": "c3d0e597783ee37fedcbec885333546dba805eadd532644895a6627d699aa076",
+      "side": "双端"
+    },
+    {
+      "path": "[增强视觉效果 ／ 拓展视觉效果] EnhancedVisuals_v1.4.4_mc1.12.2.jar",
+      "sha256": "4b8c538370ada6c25ab13990e90c903aed9e0bd0e63d59c34848ce59781fc966",
+      "side": "双端"
+    },
+    {
+      "path": "[天境] aether-1.12.2-v1.5.4.1.jar",
+      "sha256": "ed6df388e0c696dc527ed078d4ca0a3361e6014c2b0801aef1c140eeb0f2ceb8",
+      "side": "双端"
+    },
+    {
+      "path": "[天境：遗失之物] lost-aether-content-1.12.2-1.0.2.jar",
+      "sha256": "23f3207d6b334f5b3e232cbebcd7b2ce8298b84c39296c0bdd9fd047d6dd10a7",
+      "side": "双端"
+    },
+    {
+      "path": "[工业时代2] industrialcraft-2-2.8.222-ex112.jar",
+      "sha256": "f96b1886b6d060b308fb811029d5c5cc76deb17b835aa368dcb6071f2de290d4",
+      "side": "双端"
+    },
+    {
+      "path": "[帕秋莉手册] Patchouli-1.0-23.6.jar",
+      "sha256": "8fcceac75c71e0d041db734111200205d03431b7e8646f8209cf2c4de9afef7b",
+      "side": "双端"
+    },
+    {
+      "path": "[应用能源非官方延续版] ae2-uel-v0.56.7.jar",
+      "sha256": "dfca9f74cfebb4e79806ae77cd6bcedc30649be2b0e505e06d629386b0c3074e",
+      "side": "双端"
+    },
+    {
+      "path": "[建筑] buildcraft-all-8.0.0.jar",
+      "sha256": "f617279f8148a9140ab86c0e4aa4c54fe8a94515d2cf487a47cbd928160b88aa",
+      "side": "双端"
+    },
+    {
+      "path": "[怪物肢解] MobDismemberment-1.12.2-7.0.0.jar",
+      "sha256": "81df380818d38ca5ac965da978d3fe39dbd6cb3c0de409e37a47d0f300da3e45",
+      "side": "双端"
+    },
+    {
+      "path": "[战斗高塔] BattleTowers-1.12.2.jar",
+      "sha256": "21a402410869dad8d023e05f3a5488e7b34680ca11e8226560c572f6d06e53f1",
+      "side": "双端"
+    },
+    {
+      "path": "[抓钩] hooked-1.0.3.jar",
+      "sha256": "73e0a8cfd842e9ac95cd78f89f752eaac4042d6a4eabcb5f482e963fefcc30f7",
+      "side": "双端"
+    },
+    {
+      "path": "[搬运] carryon-1.12.2-1.12.7.23.jar",
+      "sha256": "02fb9cee20990687149d19f668cd6383164a2b275c3dce0e43ca2b6f6a03f070",
+      "side": "双端"
+    },
+    {
+      "path": "[无线接口终端] WirelessInterfaceTerminal-1.12.2-1.0.2.jar",
+      "sha256": "b7de5fd1825724ddcc73af072bda7727cafd284074b81845e81038c02eb7e134",
+      "side": "双端"
+    },
+    {
+      "path": "[无线流体终端] WirelessFluidTerminal-1.12.2-1.0.4.jar",
+      "sha256": "78688e40b4a5cd2804c5e16448b5f67954a184c2c31762450a7e29d9be71bf41",
+      "side": "双端"
+    },
+    {
+      "path": "[无线通用终端] ae2wut-1.2.10.jar",
+      "sha256": "286601b399955069c04bf14102bef33145893260c075137c368b77dc63e2d0ad",
+      "side": "双端"
+    },
+    {
+      "path": "[星空] GalaxySpace-1.12.2-2.2.0.jar",
+      "sha256": "a2b90ebdff7654b6f7f5e0991a6c01cd350d885f5d728fbdc2d6ba7168c4fd71",
+      "side": "双端"
+    },
+    {
+      "path": "[星空工业] GSIC2-1.0..jar",
+      "sha256": "85d3be9d4cef1587bdf4686c9952a26a9e8939fd968da05be543ccdcc335a398",
+      "side": "双端"
+    },
+    {
+      "path": "[星系] Galacticraft-1.12.2-4.0.7.jar",
+      "sha256": "e77f62ba847ae4ecef95c4db3878b8eba1d9b05fdc9c20fac79f6bc4517e8240",
+      "side": "双端"
+    },
+    {
+      "path": "[暮色森林] twilightforest-1.12.2-3.11.1021-universal.jar",
+      "sha256": "e1cee0a1e8f4aaedbd4381308fe6f32a6f69935e7bfb0df0748c2b292fb821ce",
+      "side": "双端"
+    },
+    {
+      "path": "[更多电力装置] MoreElectricTools.v1.662.jar",
+      "sha256": "04364541a4b3ce057d82479b35b1fd265d849ead5188f5044cc4793d82000ed2",
+      "side": "双端"
+    },
+    {
+      "path": "[更好的FPS] BetterFps-1.4.8.jar.disabled",
+      "sha256": "93f2496bded8f622d31d7b4b634766166c8d52dfca6e21cd9f46c445a468a381",
+      "side": "双端"
+    },
+    {
+      "path": "[更好的进度] BetterAdvancements-1.12.2-0.1.0.77.jar",
+      "sha256": "c70cda15d9c76cc79423399c1002977d6dfcc229128b33b87f25d5b4238bea34",
+      "side": "双端"
+    },
+    {
+      "path": "[极简血量显示] Neat 1.4-17.jar",
+      "sha256": "2062c99a371921fb2eb7cf6833d682c05244ca5a527db8f0c36e7f12c8ca1379",
+      "side": "双端"
+    },
+    {
+      "path": "[水游技艺] AquaAcrobatics-1.15.4.jar",
+      "sha256": "506ee8e264c347fad33302183b8f4daddb05d5e5f75c0b6d833266c886e127ce",
+      "side": "双端"
+    },
+    {
+      "path": "[泡沫修复] foamfix-0.10.15-1.12.2.jar.disabled",
+      "sha256": "e6752973cf884f96fcd3835fe6c184b3b4180a27fd955ca07c561cf77e837dda",
+      "side": "双端"
+    },
+    {
+      "path": "[海洋拓展] OceanicExpanse-1.2.2.jar",
+      "sha256": "b486bcd10945f50733e3a790c0ffd8a010b12d9cc1dd457a5d2859e7e57e5808",
+      "side": "双端"
+    },
+    {
+      "path": "[特殊背包] IronBackpacks-1.12.2-3.0.8-12.jar",
+      "sha256": "5c9e680279ca009ab3ea114c22cd869cadb41cc0bae834b7857fee709c79075e",
+      "side": "双端"
+    },
+    {
+      "path": "[玉 🔍] Jade-0.1.0.jar",
+      "sha256": "53076b9523f5fd450b8bbadde776546c00565880e3e4ac01f3d01a6471b00b0c",
+      "side": "双端"
+    },
+    {
+      "path": "[现代战争方块化] Modern-Warfare-Cubed-0.2-Dev-8.jar",
+      "sha256": "4e9a61b45bdd71aee16cde85727ce3264b138ad5a933f7f3f487c993d40d1903",
+      "side": "双端"
+    },
+    {
+      "path": "[瓦尔基里天空] [[valkyrien-skies-1.1.7-all]].jar",
+      "sha256": "45f6e682b431ae7d11baf76f4c59f3d8bfd7dab95726dab9ee85453a6d42b898",
+      "side": "双端"
+    },
+    {
+      "path": "[科亚烯] SM_CoaxiumMod_MC1.12.2 RELEASE 3 Ver-1.10.jar",
+      "sha256": "6e3a87a26115fa62ead3b82e14879839c66fa2834a8784cd98baa5ebaa24b993",
+      "side": "双端"
+    },
+    {
+      "path": "[稀有精英怪] InfernalMobs-1.12.2.jar",
+      "sha256": "f1b0be3b482a2e36315f2c13198c64e305fe7cdace3babd5d54d9c6568b8f8a3",
+      "side": "双端"
+    },
+    {
+      "path": "[突变生物重置版] MutantBeasts-1.12.2-1.0.2.jar",
+      "sha256": "a8f07c4a0cf3bb86f0cb0ba00ea0fafdd215fbb7d960e3fae61f1ef70f97e37a",
+      "side": "双端"
+    },
+    {
+      "path": "[等离子炮] PlasmaCannon-1.4.0.jar",
+      "sha256": "a1a5f4df448b97f98635432c98a277fdf1dd0f70d0a5af03fdb1fab57e69d70d",
+      "side": "双端"
+    },
+    {
+      "path": "[简单飞机] simpleplanes-1.12.2-3.0.1.7.jar",
+      "sha256": "664cad9843a7bf6d2f22564c1eb1e841965b2339c9ac6049f29530e26d82f68f",
+      "side": "双端"
+    },
+    {
+      "path": "[自动汉化更新] I18nUpdateMod-3.7.0-all.jar",
+      "sha256": "66fc7f6debca5bfe6d7c6aa392f6e23a712dc018ae71cbb6e0b214ff6a28142d",
+      "side": "客户端"
+    },
+    {
+      "path": "[苹果皮] AppleSkin-mc1.12-1.0.14.jar",
+      "sha256": "4bbd37edecff0b420ab0eea166b5d7b4b41a9870bfb8647bf243140dc57f101e",
+      "side": "双端"
+    },
+    {
+      "path": "[血月] Bloodmoon-MC1.12.2-1.5.3.jar",
+      "sha256": "1d6082293067e1a1af002c65527a41df3919f8125eaa25a9c7c9d16ba25c4d06",
+      "side": "双端"
+    },
+    {
+      "path": "[超多生物群系] BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+      "sha256": "1c53d3ee39f557162591f618c58b79dc6861d24522ef785794ee4a815f8a3908",
+      "side": "双端"
+    },
+    {
+      "path": "[连接纹理] CTM-MC1.12.2-1.0.2.31.jar",
+      "sha256": "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b",
+      "side": "双端"
+    },
+    {
+      "path": "[连锁采矿／矿脉矿工] VeinMiner-1.12-0.38.2.647+b31535a.jar",
+      "sha256": "f0dae2a977ba8e577bb09af05e4aab99d6adf9e4d01132bb3604cd0201399d46",
+      "side": "双端"
+    },
+    {
+      "path": "[通用拼音搜索] jecharacters-1.12.0-3.7.3.jar",
+      "sha256": "aa02d6b235274642455254a81f2da6dadd2feaa744544063df455a4b8e259c4a",
+      "side": "双端"
+    },
+    {
+      "path": "[铱矿产] iridiumsource-2.0.1.jar",
+      "sha256": "09093aa9779319b320f087c0b211c84bf726d1d97276be3ec650fc1577dfd9dc",
+      "side": "双端"
+    },
+    {
+      "path": "[饰品栏] Baubles-1.12-1.5.2.jar",
+      "sha256": "b32010b2f2778aa1188585e7ead91ad46d4cb2c715f9c778a61848ba7fe51f8d",
+      "side": "双端"
+    },
+    {
+      "path": "[高版本加载界面] ModernSplash-1.12.2-1.5.2.jar",
+      "sha256": "fed0b12616ba960727ced38c61466d4385f6260593752849841b08fd08264ae3",
+      "side": "双端"
+    },
+    {
+      "path": "[龙骑士2] DragonMounts2-1.12.2-2.1.2.jar",
+      "sha256": "8977d965619ebb40fa43a8ae655cb7c0329e1bdf1746531d7a97026529f8cd95",
+      "side": "双端"
+    },
+    {
+      "path": "_MixinBootstrap-1.1.0.jar",
+      "sha256": "17c589aad9907d4ba56d578d502afa80aac1ba2fa8677e8b4d06c019c41d7731",
+      "side": "双端"
+    },
+    {
+      "path": "_NTM-Extended-1.12.2-3.0.3.jar",
+      "sha256": "5896489ee26e53fa38d99e443ba4b88c6ea9a22b59832b5f29bd83b500f4354c",
+      "side": "双端"
+    },
+    {
+      "path": "ae2stuff-1.12.2-0.10.jar",
+      "sha256": "aa1077585a76dc0096802cc246c3412814c22fcc7e0975e4887909b82c0cabef",
+      "side": "双端"
+    },
+    {
+      "path": "alexsmobs-1.12.2-1.5.0.jar",
+      "sha256": "d50cd4c483cdf45ecec594446b3957c41852c538f32decd6290bf8ff735ed56c",
+      "side": "双端"
+    },
+    {
+      "path": "bdlib-1.14.4.1-mc1.12.2.jar",
+      "sha256": "b385f1a6f3f908673324ef03ed15b6bb5f588ce2e36443acc7273a6263cca045",
+      "side": "双端"
+    },
+    {
+      "path": "bobby-legacy.jar.disabled",
+      "sha256": "2bdb18a03ed3486c604717fbf39659d1a0e752553bab279e6550a642bd5c29d5",
+      "side": "双端"
+    },
+    {
+      "path": "brigo_forge-1.1.1+1.12.x.jar",
+      "sha256": "5f70e2a9c3ca6cd6fcca74405605a7fb2e10c55bfee1dd3abbee2797fe381662",
+      "side": "双端"
+    },
+    {
+      "path": "buildcraftfluxified-1.0.0.jar",
+      "sha256": "90785f14e5678ccbbf76b15cf2ea540fcfa9cbf5bdd17724830c805bce7553ed",
+      "side": "双端"
+    },
+    {
+      "path": "celeritas-forge-mc12.2-2.4.0-dev (1).jar.disabled",
+      "sha256": "6f596dd7dd31d3a288277c6b75d67e8cd01eaec2de582c773841fb239978dc8b",
+      "side": "双端"
+    },
+    {
+      "path": "citadel-1.12.2-1.1.0.jar",
+      "sha256": "b79c3ee4a234601b3d01bf5f5713e645c23edfcf3429466dc3f0727ba713075a",
+      "side": "双端"
+    },
+    {
+      "path": "coroutil-1.12.1-1.2.37.jar",
+      "sha256": "a16c09b2ac5894078cc1aef5b6fe11a04cb5bf43f2a703a5b9545fb8be0b748a",
+      "side": "双端"
+    },
+    {
+      "path": "energyconverters_1.12.2-1.3.7.30.jar",
+      "sha256": "d7ab6459e6432c73c717423e222b130ecb7deb4f3d3831579305d00d5e0f8253",
+      "side": "双端"
+    },
+    {
+      "path": "hbmgccompanion-0.1.5.jar",
+      "sha256": "e3d08b13338540e48ae306adf83ceaedce7e79700a1c2512a8cdcbae3f766be6",
+      "side": "双端"
+    },
+    {
+      "path": "iChunUtil-1.12.2-7.2.2.jar",
+      "sha256": "e0b90727cbe54a11fe568f3d60cd59d64ff3c14f82437e1d1c10b575886ab8a3",
+      "side": "双端"
+    },
+    {
+      "path": "ic2magma-1.0.jar",
+      "sha256": "5050cdf66578716fb779e481a6377de9030ca85d8c16f1e65f6fa7f89f7a197a",
+      "side": "双端"
+    },
+    {
+      "path": "llibrary-1.7.20-1.12.2.jar",
+      "sha256": "27fa8dbfc7428168229a445dad82a4696ba52cf0a6e054833bff0f93931d8ceb",
+      "side": "双端"
+    },
+    {
+      "path": "p455w0rdslib-1.12.2-2.3.161.jar",
+      "sha256": "e5844c044d9f2ce2f23eef84d95eea8cc1f2c5581874bd01410e7d103b90a424",
+      "side": "双端"
+    },
+    {
+      "path": "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+      "sha256": "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c",
+      "side": "客户端"
+    },
+    {
+      "path": "reactor_turbines-1.2.2.jar",
+      "sha256": "a0d88718de17fa4c04cd6bf72605268fe3096b8d973ce969d4fa3806cbc7cc29",
+      "side": "双端"
+    },
+    {
+      "path": "vs-control-1.12.2-1.1.1.jar",
+      "sha256": "1eec4d5c5b62f3e345d96199ee57d90767547e52aed4acbe0531b902330a0e28",
+      "side": "双端"
+    },
+    {
+      "path": "vs-world-1.12.2-1.0.0.jar",
+      "sha256": "12eddceffd334667b8b490b092d4abebae9ff8e1b6a1126c0dbdb2ad7f90a04c",
+      "side": "双端"
+    },
+    {
+      "path": "xaerolib-forge-1.12.2-1.7.1.jar",
+      "sha256": "3f0c61a8a8b80db1177b5c77ccc5f08f0fd08d0991254bbd93b5581776329adf",
+      "side": "双端"
+    }
+  ],
+  "launcher": {
+    "jreDownloadUrl": "https://cdn.azul.com/zulu/bin/zulu25.34.17-ca-jdk25.0.3-win_x64.zip",
+    "versionId": "1.12.2-Cleanroom_0.6.6-alpha",
+    "loaderVersion": "0.6.6-alpha",
+    "versions": [
+      "1.12.2-Cleanroom_0.6.6-alpha"
+    ]
+  }
+}
