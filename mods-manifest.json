@@ -520,11 +520,11 @@
     }
   ],
   "launcher": {
-    "jreDownloadUrl": "https://cdn.azul.com/zulu/bin/zulu8.84.0.1305-ca-jdk8.0.442-win_x64.zip",
-    "versionId": "1.12.2-Forge14.23.0.2486",
-    "loaderVersion": "14.23.0.2486",
+    "jreDownloadUrl": "https://cdn.azul.com/zulu/bin/zulu25.34.17-ca-jdk25.0.3-win_x64.zip",
+    "versionId": "1.12.2-Cleanroom_0.6.6-alpha",
+    "loaderVersion": "0.6.6-alpha",
     "versions": [
-      "1.12.2-Forge14.23.0.2486"
+      "1.12.2-Cleanroom_0.6.6-alpha"
     ]
   }
 }
