@@ -521,10 +521,10 @@
   ],
   "launcher": {
     "jreDownloadUrl": "https://cdn.azul.com/zulu/bin/zulu25.34.17-ca-jdk25.0.3-win_x64.zip",
-    "versionId": "1.12.2-Cleanroom_0.5.17-alpha",
-    "loaderVersion": "0.5.17-alpha",
+    "versionId": "1.12.2-Cleanroom_0.6.6-alpha",
+    "loaderVersion": "0.6.6-alpha",
     "versions": [
-      "1.12.2-Cleanroom_0.5.17-alpha"
+      "1.12.2-Cleanroom_0.6.6-alpha"
     ]
   }
 }
